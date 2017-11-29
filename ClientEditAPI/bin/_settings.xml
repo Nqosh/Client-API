@@ -1,0 +1,5 @@
+<settings>
+  <Clients>
+    <Client FirstName="John Peter" Surname="Bloggs" IdentityType="Identity Document" IdentityNumber="7202025074084" DOB="1972/02/02" />
+  </Clients>
+</settings>

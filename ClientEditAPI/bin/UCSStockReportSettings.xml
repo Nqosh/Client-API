@@ -1,0 +1,6 @@
+﻿<settings>
+  <UCSStockReportRightID value="1064"/>
+  <UCSStockAPI value="http://www.smartcomonline.co.za/UCSStockAPI/api/"/>
+  <UCSStockTemplate value="Widgits\UcsStockReport\Templates\UCSStockReport.xlsx"/>
+  <UCSUploadsPath value="C:\Test\" />
+</settings>
